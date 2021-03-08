@@ -1,0 +1,16 @@
+{
+    "Name":"Ime",
+    "Login":"Prijava",
+    "E-Mail Address":"E-mail adresa",
+    "Password":"Lozinka",
+    "Confirm Password":"Potvrdite lozinku",
+    "Register":"Registracija",
+    "Remember Me":"Zapamti me",
+    "Forgot Your Password?":"Zaboravili ste lozinku?",
+    "Send Password Reset Link":"Posaljite lozinku na mail",
+    "Surname":"Prezime",
+    "OID":"JMBG",
+    "Dashboard":"Radno okruženje",
+    "You are logged in!":"Prijavljeni ste!",
+    "Logout":"Odjavite se"
+}
